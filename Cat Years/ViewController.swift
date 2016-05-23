@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         
         catAge = catAge * 7
         
-        resultLabel.text = "Your cat is \(catAge) years old in cat years"
+        resultLabel.text = "Your cat is \(catAge) in cat years"
         
     }
     
